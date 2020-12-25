@@ -10,7 +10,64 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce65837a-9b56-4dbc-9483-717d63ea655e" name="Default Changelist" comment="" />
+    <list default="true" id="ce65837a-9b56-4dbc-9483-717d63ea655e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.env.dev" beforeDir="false" afterPath="$PROJECT_DIR$/.env.dev" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env.dev-sample" beforeDir="false" afterPath="$PROJECT_DIR$/.env.dev-sample" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env.prod-sample" beforeDir="false" afterPath="$PROJECT_DIR$/.env.prod-sample" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitmodules" beforeDir="false" afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/hello_django/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/hello_django/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/hello_django/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/hello_django/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/mediafiles/AOh14GgqdFb_ro-FwBcEEdEzEqpk8b44bKsyYqJB9RtJs88-c-k-c0x00fff.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/mediafiles/AOh14GgqdFb_ro-FwBcEEdEzEqpk8b44bKsyYqJB9RtJs88-c-k-c0x00fff.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/mediafiles/Capture d’écran 2020-10-16 à 10.06.57.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/mediafiles/Capture d’écran 2020-10-16 à 10.06.57.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/mediafiles/Capture d’écran 2020-12-03 à 23.56.11.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/mediafiles/Capture d’écran 2020-12-03 à 23.56.11.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/staticfiles/css/animate.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/staticfiles/css/animate.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/staticfiles/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/staticfiles/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/staticfiles/css/ionicons.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/staticfiles/css/ionicons.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/staticfiles/css/owl.carousel.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/staticfiles/css/owl.carousel.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/staticfiles/css/owl.theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/staticfiles/css/owl.theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/staticfiles/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/staticfiles/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/staticfiles/fonts/ionicons.eot" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/staticfiles/fonts/ionicons.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/staticfiles/fonts/ionicons.svg" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/staticfiles/fonts/ionicons.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/staticfiles/fonts/ionicons.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/staticfiles/fonts/ionicons.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/staticfiles/fonts/ionicons.woff" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/staticfiles/fonts/ionicons.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/staticfiles/icons/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/staticfiles/icons/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/staticfiles/icons/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/staticfiles/icons/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/staticfiles/icons/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/staticfiles/icons/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/staticfiles/icons/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/staticfiles/icons/4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/staticfiles/icons/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/staticfiles/icons/5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/staticfiles/icons/6.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/staticfiles/icons/6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/staticfiles/icons/a1.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/staticfiles/icons/a1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/staticfiles/icons/a2.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/staticfiles/icons/a2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/staticfiles/icons/a3.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/staticfiles/icons/a3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/staticfiles/icons/a4.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/staticfiles/icons/a4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/staticfiles/icons/a5.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/staticfiles/icons/a5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/staticfiles/icons/a6.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/staticfiles/icons/a6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/staticfiles/icons/f1.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/staticfiles/icons/f1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/staticfiles/icons/f11.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/staticfiles/icons/f11.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/staticfiles/icons/f2.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/staticfiles/icons/f2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/staticfiles/icons/f4.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/staticfiles/icons/f4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/staticfiles/icons/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/staticfiles/icons/favicon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/staticfiles/icons/free.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/staticfiles/icons/free.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/staticfiles/icons/paid.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/staticfiles/icons/paid.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/staticfiles/icons/review-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/staticfiles/icons/review-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/staticfiles/icons/review-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/staticfiles/icons/review-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/staticfiles/icons/review-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/staticfiles/icons/review-3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/staticfiles/icons/tick.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/staticfiles/icons/tick.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/staticfiles/images/big.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/staticfiles/images/big.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/staticfiles/images/feature-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/staticfiles/images/feature-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/staticfiles/images/feature.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/staticfiles/images/feature.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/staticfiles/images/hero.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/staticfiles/images/hero.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/staticfiles/images/test.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/staticfiles/images/test.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/staticfiles/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/staticfiles/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/staticfiles/js/custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/staticfiles/js/custom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/staticfiles/js/jquery-2.1.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/staticfiles/js/jquery-2.1.1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/staticfiles/js/jquery.validate.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/staticfiles/js/jquery.validate.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/staticfiles/js/plugins.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/staticfiles/js/plugins.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/staticfiles/js/popper.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/staticfiles/js/popper.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/upload/templates/index-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/upload/templates/index-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/upload/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/upload/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,6 +96,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/web" />
       <recent name="$PROJECT_DIR$/app" />
     </key>
   </component>
@@ -65,5 +123,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

@@ -14,8 +14,6 @@ import os
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-
-
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/3.0/howto/deployment/checklist/
 
@@ -25,8 +23,8 @@ DEBUG = int(os.environ.get("DEBUG", default=0))
 
 # 'DJANGO_ALLOWED_HOSTS' should be a single string of hosts with a space between each.
 # For example: 'DJANGO_ALLOWED_HOSTS=localhost 127.0.0.1 [::1]'
-ALLOWED_HOSTS = os.environ.get("DJANGO_ALLOWED_HOSTS").split(" ")
-
+ALLOWED_HOSTS = ("localhost", "127.0.0.1", "[::1]")
+SECRET_KEY = "foo1234567890"
 
 # Define APPLICATON_KEY, APPLICATON_SECRET,
 # USER_TOKEN, and USER_SECRET from the credentials
@@ -47,8 +45,7 @@ INSTALLED_APPS = [
     "django.contrib.staticfiles",
 
     "upload",
-    "linkedin_v2",
-    "static_management"
+    "linkedin_v2"
 ]
 
 MIDDLEWARE = [
@@ -115,7 +112,6 @@ AUTH_PASSWORD_VALIDATORS = [
     },
 ]
 
-
 # Internationalization
 # https://docs.djangoproject.com/en/3.0/topics/i18n/
 
@@ -129,8 +125,6 @@ USE_L10N = True
 
 USE_TZ = True
 
-
-
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/3.0/howto/static-files/
 
@@ -139,27 +133,3 @@ STATIC_ROOT = os.path.join(BASE_DIR, "staticfiles")
 
 MEDIA_URL = "/mediafiles/"
 MEDIA_ROOT = os.path.join(BASE_DIR, "mediafiles")
-
-STATIC_MANAGEMENT = {
-    'css': {
-        'css/mymainfile.css' : [
-            'css/bootstrap.min.css',
-            'css/animate.css',
-            'css/owl.carousel.css',
-            'css/owl.theme.css',
-            'css/style.css',
-            'css/ionicons.min.css'
-
-        ],
-    },
-    'js': {
-        'js/myjsfile.js' : [
-            'js/jquery-2.1.1.js',
-            'js/popper.min.js',
-            'js/bootstrap.min.js',
-            'js/jquery.validate.min.js',
-            'js/plugins.js',
-            'js/custom.j'
-        ],
-    }
-}
