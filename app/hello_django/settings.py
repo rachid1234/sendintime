@@ -48,6 +48,7 @@ INSTALLED_APPS = [
 
     "upload",
     "linkedin_v2",
+    "static_management"
 ]
 
 MIDDLEWARE = [
@@ -129,6 +130,7 @@ USE_L10N = True
 USE_TZ = True
 
 
+
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/3.0/howto/static-files/
 
@@ -137,3 +139,27 @@ STATIC_ROOT = os.path.join(BASE_DIR, "staticfiles")
 
 MEDIA_URL = "/mediafiles/"
 MEDIA_ROOT = os.path.join(BASE_DIR, "mediafiles")
+
+STATIC_MANAGEMENT = {
+    'css': {
+        'css/mymainfile.css' : [
+            'css/bootstrap.min.css',
+            'css/animate.css',
+            'css/owl.carousel.css',
+            'css/owl.theme.css',
+            'css/style.css',
+            'css/ionicons.min.css'
+
+        ],
+    },
+    'js': {
+        'js/myjsfile.js' : [
+            'js/jquery-2.1.1.js',
+            'js/popper.min.js',
+            'js/bootstrap.min.js',
+            'js/jquery.validate.min.js',
+            'js/plugins.js',
+            'js/custom.j'
+        ],
+    }
+}

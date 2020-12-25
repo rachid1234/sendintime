@@ -15,6 +15,10 @@ def image_upload(request):
         })
     return render(request, "upload.html")
 
+
+def welcome_page(request):
+    return render(request, "index-2.html")
+
 def linked_in_login(request):
     authentication = linkedin.LinkedInDeveloperAuthentication(CONSUMER_KEY, CONSUMER_SECRET,
                                                               USER_TOKEN, USER_SECRET,
